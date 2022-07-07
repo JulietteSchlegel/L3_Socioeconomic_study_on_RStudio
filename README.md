@@ -1,1 +1,1 @@
-# Modele_econometrique_consommation_cannabis
+# socioeconomic_study_canabis_consumption
